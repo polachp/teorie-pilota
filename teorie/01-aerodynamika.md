@@ -12,12 +12,16 @@
 
 **Proč to pilota zajímá:** dynamický tlak „drží" vrchlík naplněný a vytváří vztlak; kvadratická závislost na rychlosti vysvětluje, proč malá změna rychlosti znamená velkou změnu sil na křídle.
 
+[K dalšímu studiu →](aerodynamika/01-tlak-vzduchu.html){: .btn-detail}
+
 ## 2. Laminární a turbulentní proudění — existence jevu
 
 - **Laminární proudění** — vzduch teče v rovnoběžných vrstvách, plynule, bez víření.
 - **Turbulentní proudění** — vrstvy se promíchávají, vznikají víry, směr a rychlost se chaoticky mění.
 
 V reálné atmosféře je čisté laminární proudění vzácné — turbulenci vyvolávají překážky, termika a střih větru. Na profilu křídla přechází laminární obtékání do turbulentního; při odtržení proudu křídlo přestává správně nést.
+
+[K dalšímu studiu →](aerodynamika/02-laminarni-turbulentni-proudeni.html){: .btn-detail}
 
 ## 3. Odpor. Druhy odporu, vliv na let PK
 

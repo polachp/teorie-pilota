@@ -238,6 +238,67 @@ body {
   line-height: 1;
 }
 
+/* ---------- Odkaz na detail bodu („K dalšímu studiu") ---------- */
+.btn-detail {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.5rem 1.125rem;
+  border: 1px solid rgba(240, 166, 60, 0.6);
+  border-radius: 999px;
+  background: rgba(240, 166, 60, 0.1);
+  color: #8a5a10;
+  font-weight: 600;
+  font-size: 0.9375rem;             /* 15px */
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(240, 166, 60, 0.25);
+}
+
+.btn-detail:hover,
+.btn-detail:focus {
+  background: rgba(240, 166, 60, 0.2);
+  border-color: $gold;
+  text-decoration: none;
+}
+
+.btn-detail:active {
+  background: rgba(240, 166, 60, 0.3);
+}
+
+/* ---------- Rozbalovací otázky k procvičení ---------- */
+.main-content details {
+  margin: 0.625rem 0;
+  border: 1px solid rgba(30, 123, 196, 0.3);
+  border-radius: 10px;
+  background: $mist;
+  overflow: hidden;
+}
+
+.main-content summary {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: $steel;
+  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
+}
+
+.main-content summary::marker {
+  color: $gold;
+}
+
+.main-content details[open] summary {
+  border-bottom: 1px solid rgba(30, 123, 196, 0.2);
+}
+
+.main-content details p {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  background: #fff;
+}
+
 /* ---------- Spodní tlačítko Zpět na stránkách předmětů ---------- */
 .btn-zpet {
   display: flex;
