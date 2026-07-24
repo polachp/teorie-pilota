@@ -100,6 +100,4 @@ Stabilita = schopnost kluzáku **samovolně se vrátit do rovnovážného letov�
 - Rozlišujeme stabilitu **podélnou** (klopení), **příčnou** (naklánění) a **směrovou** (zatáčení).
 - Certifikované kluzáky (třídy A–D) se liší právě mírou samovolného návratu do normálního letu — školní kluzáky (A) jsou nejstabilnější.
 
----
-
-[← Zpět na přehled](../index.html)
+[← Zpět na přehled](../index.html){: .btn-zpet}

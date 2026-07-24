@@ -1,9 +1,102 @@
 ---
 ---
 
+/* Letecká paleta — přepis proměnných Cayman tématu před importem */
+$header-bg-color: #1E7BC4;            /* letová modrá */
+$header-bg-color-secondary: #0E2A4E;  /* půlnoční navy */
+$section-headings-color: #114B77;     /* ocelová modrá */
+$body-link-color: #1E7BC4;
+$body-text-color: #2A3540;
+
 @import "{{ site.theme }}";
 
-/* Rozcestník předmětů — dotykové dlaždice (min. 48px cíl dle Material/HIG) */
+/* Systémová písma — rychlejší načtení na mobilu než webfont */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---------- Hlavička: kompaktní, obsah dřív na obrazovce ---------- */
+.page-header {
+  padding: 2.5rem 1rem 2rem;
+}
+
+.project-name {
+  text-wrap: balance;
+}
+
+.page-header .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0.55rem 1.2rem;
+  margin-top: 0.4rem;
+  border-radius: 10px;
+  border-color: rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: 1.4rem 1rem 1.2rem;
+  }
+  .project-name {
+    font-size: 1.45rem;
+    margin-bottom: 0.15rem;
+  }
+  .project-tagline {
+    font-size: 0.95rem;
+    opacity: 0.85;
+    margin-bottom: 0.7rem;
+  }
+  .page-header .btn + .btn {
+    margin-top: 0.5rem;
+  }
+}
+
+/* ---------- Obsah ---------- */
+@media screen and (max-width: 42em) {
+  .main-content {
+    padding: 1.5rem 1rem;
+    font-size: 1rem;
+  }
+  .main-content h1 {
+    font-size: 1.55rem;
+  }
+  .main-content h2 {
+    font-size: 1.15rem;
+  }
+}
+
+.main-content {
+  line-height: 1.65;
+
+  /* Každý bod osnovy je vizuálně oddělený úsek — orientace při scrollování */
+  h2 {
+    margin-top: 2.2rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid #dce9f4;
+  }
+
+  h1 + p > em,
+  h1 + p em {
+    color: #5b7186;
+  }
+
+  /* Vzorce a klíčové poučky — zvýrazněný box */
+  blockquote {
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: #f2f8fd;
+    border-left: 4px solid #1e7bc4;
+    border-radius: 0 8px 8px 0;
+    color: #24466b;
+    font-size: inherit;
+  }
+}
+
+/* ---------- Rozcestník předmětů — dotykové dlaždice (min. 48px cíl) ---------- */
 .predmety {
   display: grid;
   grid-template-columns: 1fr;
@@ -23,25 +116,25 @@
   gap: 0.9rem;
   min-height: 3.25rem;
   padding: 0.85rem 1rem;
-  border: 1px solid rgba(21, 120, 120, 0.35);
+  border: 1px solid rgba(30, 123, 196, 0.35);
   border-radius: 10px;
-  background: #f4fafa;
-  color: #155e5e;
+  background: #f2f8fd;
+  color: #114b77;
   font-size: 1.05rem;
   font-weight: 600;
   text-decoration: none;
-  -webkit-tap-highlight-color: rgba(21, 120, 120, 0.15);
+  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
 }
 
 .predmety a:hover,
 .predmety a:focus {
-  background: #e4f3f3;
-  border-color: #157878;
+  background: #e3f0fa;
+  border-color: #1e7bc4;
   text-decoration: none;
 }
 
 .predmety a:active {
-  background: #d2ebeb;
+  background: #d3e7f7;
 }
 
 .predmety .cislo {
@@ -52,14 +145,42 @@
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  background: #157878;
+  background: #1e7bc4;
   color: #fff;
   font-size: 0.95rem;
 }
 
 .predmety .sipka {
   margin-left: auto;
-  color: #157878;
+  color: #1e7bc4;
   font-size: 1.3rem;
   line-height: 1;
+}
+
+/* ---------- Spodní tlačítko Zpět na stránkách předmětů ---------- */
+.btn-zpet {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  margin-top: 2.2rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid rgba(30, 123, 196, 0.35);
+  border-radius: 10px;
+  background: #f2f8fd;
+  color: #114b77;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
+}
+
+.btn-zpet:hover,
+.btn-zpet:focus {
+  background: #e3f0fa;
+  border-color: #1e7bc4;
+  text-decoration: none;
+}
+
+.btn-zpet:active {
+  background: #d3e7f7;
 }

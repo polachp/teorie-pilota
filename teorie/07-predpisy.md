@@ -24,6 +24,4 @@
 
 *(bude doplněno)*
 
----
-
-[← Zpět na přehled](../index.html)
+[← Zpět na přehled](../index.html){: .btn-zpet}
