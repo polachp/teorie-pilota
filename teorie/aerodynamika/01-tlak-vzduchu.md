@@ -1,6 +1,8 @@
+[← Aerodynamika · bod 1](../01-aerodynamika.html#bod-1){: .drobecek}
+
 # Tlak vzduchu (statický, dynamický, celkový)
 
-*Aerodynamika · detail bodu 1 · k dalšímu studiu*
+*Detail k dalšímu studiu*
 
 ## Co je tlak vzduchu
 
@@ -49,4 +51,4 @@ Tlak je síla, kterou vzduch působí na jednotku plochy. V letectví se udává
 <p>Přetlak uvnitř komor vytvářený dynamickým (náporovým) tlakem, který vstupuje otvory v náběžné hraně za letu.</p>
 </details>
 
-[← Zpět na Aerodynamiku](../01-aerodynamika.html){: .btn-zpet}
+[← Zpět na Aerodynamiku](../01-aerodynamika.html#bod-1){: .btn-zpet}

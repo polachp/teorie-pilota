@@ -1,6 +1,8 @@
+[← Aerodynamika · bod 2](../01-aerodynamika.html#bod-2){: .drobecek}
+
 # Laminární a turbulentní proudění
 
-*Aerodynamika · detail bodu 2 · k dalšímu studiu*
+*Detail k dalšímu studiu*
 
 ## Dva režimy proudění
 
@@ -48,4 +50,4 @@ V reálném ovzduší je čisté laminární proudění vzácné. Turbulenci vyv
 <p>V závětří překážek (rotory za kopcem, lesem, budovami), v silné termice a v místech střihu větru.</p>
 </details>
 
-[← Zpět na Aerodynamiku](../01-aerodynamika.html){: .btn-zpet}
+[← Zpět na Aerodynamiku](../01-aerodynamika.html#bod-2){: .btn-zpet}

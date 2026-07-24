@@ -238,6 +238,41 @@ body {
   line-height: 1;
 }
 
+/* Plynulé skoky na kotvy (respektuje omezení pohybu v systému) */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.main-content h2 {
+  scroll-margin-top: 0.75rem;
+}
+
+/* ---------- Drobeček na detailu — návrat k nadřazené sekci ---------- */
+.drobecek {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-bottom: 0.5rem;
+  padding: 0.375rem 1rem;
+  border: 1px solid rgba(30, 123, 196, 0.35);
+  border-radius: 999px;
+  background: $mist;
+  color: $steel;
+  font-weight: 600;
+  font-size: 0.9375rem;             /* 15px */
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
+}
+
+.drobecek:hover,
+.drobecek:focus {
+  background: #e3f0fa;
+  border-color: $blue;
+  text-decoration: none;
+}
+
 /* ---------- Odkaz na detail bodu („K dalšímu studiu") ---------- */
 .btn-detail {
   display: inline-flex;
