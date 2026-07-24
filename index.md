@@ -1,4 +1,4 @@
-# Teorie pilota padákového kluzáku
+# Teorie pro pilota padákového kluzáku
 
 Teoretické znalosti požadované ke kvalifikaci **PILOT** dle osnovy **PL 3 – Osnova výcviku pilota padákového kluzáku** (Hlava 2, znění ze dne 1. 3. 2011). Každý předmět má vlastní stránku s detailně rozepsanými body osnovy.
 

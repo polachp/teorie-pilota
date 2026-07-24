@@ -1,4 +1,4 @@
-# Teorie pilota padákového kluzáku
+# Teorie pro pilota padákového kluzáku
 
 Web s teoretickými znalostmi ke kvalifikaci pilota PK, hostovaný na GitHub Pages: **https://polachp.github.io/teorie-pilota/**
 
