@@ -15,12 +15,13 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% unless page.url == "/" %}
-      <a href="{{ '/' | relative_url }}" class="btn">← Zpět na úvod</a>
-      {% endunless %}
+      <a href="{{ '/' | relative_url }}" class="header-domu">
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      </a>
     </header>
+
+    <div class="revize">Pracovní verze — texty procházejí odbornou revizí s instruktory a průběžně je upřesňujeme.</div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
