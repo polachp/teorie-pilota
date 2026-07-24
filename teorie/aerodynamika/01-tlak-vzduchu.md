@@ -1,4 +1,4 @@
-[← Aerodynamika · bod 1](../01-aerodynamika.html#bod-1){: .drobecek}
+[← Aerodynamika](../01-aerodynamika.html#bod-1){: .drobecek}
 
 # Tlak vzduchu (statický, dynamický, celkový)
 

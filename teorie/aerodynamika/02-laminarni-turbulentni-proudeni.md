@@ -1,4 +1,4 @@
-[← Aerodynamika · bod 2](../01-aerodynamika.html#bod-2){: .drobecek}
+[← Aerodynamika](../01-aerodynamika.html#bod-2){: .drobecek}
 
 # Laminární a turbulentní proudění
 
