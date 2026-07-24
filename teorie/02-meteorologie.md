@@ -2,8 +2,7 @@
 
 **Rozsah výuky:** bez kvalifikací 3,0 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 0,5 h
 
-## 1. Teplota, její změna s výškou
-
+## 1. Teplota, její změna s výškou {#bod-1}
 V troposféře teplota s výškou zpravidla klesá — v průměru o **0,65 °C na 100 m** (standardní atmosféra).
 
 - **Suchoadiabatický gradient** — nenasycená stoupající bublina se ochlazuje o **1 °C/100 m**.
@@ -14,8 +13,9 @@ V troposféře teplota s výškou zpravidla klesá — v průměru o **0,65 °C 
 
 **⚠️ K verifikaci:** hodnota nasyceně adiabatického gradientu (uváděno 0,5–0,65 °C/100 m dle teploty a tlaku).
 
-## 2. Tlak, jeho změna s výškou
+[K dalšímu studiu →](meteorologie/01-teplota-s-vyskou.html){: .btn-detail}
 
+## 2. Tlak, jeho změna s výškou {#bod-2}
 **Atmosférický tlak** je tíha vzduchového sloupce nad daným místem. Normální tlak na hladině moře je **1013,25 hPa**.
 
 - Tlak s výškou **klesá** — v přízemních hladinách zhruba o **1 hPa na každých 8 m** výšky; s rostoucí výškou je pokles pomalejší (vzduch je řidší).
@@ -23,8 +23,9 @@ V troposféře teplota s výškou zpravidla klesá — v průměru o **0,65 °C 
 
 **Prakticky:** změna tlaku počasím (příchod fronty) posune údaj výškoměru, aniž by se pilot pohnul. S výškou klesá i **hustota vzduchu** — ve velké výšce letí kluzák rychleji vůči zemi a přistání je „tvrdší" (delší výdrž).
 
-## 3. Základní rozdělení oblačnosti
+[K dalšímu studiu →](meteorologie/02-tlak-s-vyskou.html){: .btn-detail}
 
+## 3. Základní rozdělení oblačnosti {#bod-3}
 Oblaky dělíme podle výšky základny do **pater** (v mírných šířkách):
 
 - **Vysoké patro** (nad cca 5–6 km): **cirrus (Ci)**, **cirrocumulus (Cc)**, **cirrostratus (Cs)** — ledové oblaky.
@@ -36,8 +37,9 @@ Podle vzniku rozlišujeme oblačnost **kupovitou** (konvekční — termika), **
 
 **⚠️ K verifikaci:** přesné výškové hranice pater (učebnice uvádějí mírně odlišné meze).
 
-## 4. Spojitost počasí s jednotlivými druhy oblačnosti
+[K dalšímu studiu →](meteorologie/03-rozdeleni-oblacnosti.html){: .btn-detail}
 
+## 4. Spojitost počasí s jednotlivými druhy oblačnosti {#bod-4}
 - **Cu humilis** („kumulus pěkného počasí") — plochý kumulus, značka fungující, zpravidla mírné termiky. Ideální pro létání.
 - **Cu congestus → Cb** — mohutnící kupy signalizují silnou labilitu, hrozí přeháňky a bouřky.
 - **Ci → Cs → As → Ns** — postupně houstnoucí a klesající oblačnost je typický sled před **teplou frontou**; Ns přináší trvalé srážky.
@@ -47,8 +49,9 @@ Podle vzniku rozlišujeme oblačnost **kupovitou** (konvekční — termika), **
 
 **Prakticky:** pohled na oblohu je pro pilota PK nejrychlejší „předpověď" — druh a vývoj oblačnosti prozradí stabilitu, vlhkost i blížící se frontu.
 
-## 5. Princip ohřívání atmosféry. Nerovnoměrnosti v ohřívání zemského povrchu
+[K dalšímu studiu →](meteorologie/04-oblacnost-a-pocasi.html){: .btn-detail}
 
+## 5. Princip ohřívání atmosféry. Nerovnoměrnosti v ohřívání zemského povrchu {#bod-5}
 Vzduch je pro krátkovlnné sluneční záření téměř průzračný — sluneční paprsky ohřívají především **zemský povrch**, a teprve od něj se **odspodu** ohřívá vzduch (vedením, dlouhovlnným vyzařováním a hlavně **konvekcí** — promícháváním).
 
 Povrch se ohřívá nerovnoměrně:
@@ -58,8 +61,9 @@ Povrch se ohřívá nerovnoměrně:
 
 **Proč to pilota zajímá:** právě rozdíly v ohřevu povrchu jsou motorem termiky — nad „teplými" plochami vznikají zdroje stoupavých proudů, nad „studenými" naopak klesání.
 
-## 6. Vznik termického proudění. Základní podmínky vzniku, denní a roční chod
+[K dalšímu studiu →](meteorologie/05-ohrivani-atmosfery.html){: .btn-detail}
 
+## 6. Vznik termického proudění. Základní podmínky vzniku, denní a roční chod {#bod-6}
 Nad přehřátým povrchem se hromadí teplý vzduch; po dosažení dostatečného přehřátí (nebo po **odtržení** impulsem — poryv větru, projíždějící vozidlo, okraj lesa) se zvedá jako **bublina** či **sloupec** a stoupá, dokud je teplejší než okolí.
 
 Základní podmínky: **sluneční ohřev povrchu**, **labilní zvrstvení** (dostatečný pokles teploty s výškou) a **spouštěcí mechanismus**. Dosáhne-li stoupající vzduch **kondenzační hladiny**, vzniká nad termikou **cumulus**; bez ní jde o „čistou" (modrou) termiku.
@@ -69,8 +73,9 @@ Základní podmínky: **sluneční ohřev povrchu**, **labilní zvrstvení** (do
 
 **⚠️ K verifikaci:** pojem a mechanismus večerní „restituční" termiky (regionálně různě vykládáno).
 
-## 7. Základy synoptické meteorologie — tlakové útvary, souvislost s prouděním vzduchu (směr a rychlost větru)
+[K dalšímu studiu →](meteorologie/06-vznik-termiky.html){: .btn-detail}
 
+## 7. Základy synoptické meteorologie — tlakové útvary, souvislost s prouděním vzduchu (směr a rychlost větru) {#bod-7}
 - **Tlaková níže (cyklona, N)** — v jejím středu je nejnižší tlak; na severní polokouli kolem ní vzduch proudí **proti směru hodinových ručiček** a stáčí se dovnitř. Sbíhající se vzduch stoupá → oblačnost, srážky, zhoršené počasí.
 - **Tlaková výše (anticyklona, V)** — proudění **po směru hodinových ručiček**, vzduch se roztéká a uvnitř klesá → rozpouštění oblačnosti, ustálené počasí, ale v zimě inverze a mlhy.
 - Vítr vane přibližně **podél izobar**; u země ho tření stáčí šikmo k nižšímu tlaku (nad pevninou cca o 20–30°) a zpomaluje.
@@ -80,8 +85,9 @@ Základní podmínky: **sluneční ohřev povrchu**, **labilní zvrstvení** (do
 
 **⚠️ K verifikaci:** úhel stočení přízemního větru vůči izobarám nad pevninou (uváděno 20–35°).
 
-## 8. Fronty. Rozdělení, rychlost postupu, nebezpečí s důrazem na studenou frontu v teplém ročním období
+[K dalšímu studiu →](meteorologie/07-synoptika-tlakove-utvary.html){: .btn-detail}
 
+## 8. Fronty. Rozdělení, rychlost postupu, nebezpečí s důrazem na studenou frontu v teplém ročním období {#bod-8}
 **Fronta** = rozhraní mezi dvěma vzduchovými hmotami různých vlastností.
 
 - **Teplá fronta** — teplý vzduch nasouvá po klínu studeného; postupuje pomalu (řádově **20–30 km/h**). Ohlašuje se sledem Ci–Cs–As–Ns, přináší dlouhé trvalé srážky a nízkou oblačnost.
@@ -92,8 +98,9 @@ Základní podmínky: **sluneční ohřev povrchu**, **labilní zvrstvení** (do
 
 **⚠️ K verifikaci:** typické rychlosti postupu front (rozpětí se v pramenech liší) a vzdálenost, o kterou húlava předchází frontu.
 
-## 9. Horské a údolní proudění
+[K dalšímu studiu →](meteorologie/08-fronty.html){: .btn-detail}
 
+## 9. Horské a údolní proudění {#bod-9}
 V horách vzniká denní cirkulace řízená rozdílným ohřevem svahů a údolí:
 
 - **Den:** svahy se prohřívají → vzduch stoupá po svazích (**anabatický vítr**, svahový vánek) a údolím proudí vzduch **vzhůru do hor** (**údolní vítr**). Odpoledne může údolní vítr značně zesílit.
@@ -101,8 +108,9 @@ V horách vzniká denní cirkulace řízená rozdílným ohřevem svahů a údol
 
 **Prakticky:** směr větru na startu (hřeben) a na přistání (dno údolí) se může výrazně lišit i obracet během dne. Počítat se zesíleným údolním větrem odpoledne — přistávat proti němu a vyhnout se závětrným místům údolí.
 
-## 10. Zvláštnosti termického proudění v horách
+[K dalšímu studiu →](meteorologie/09-horske-udolni-proudeni.html){: .btn-detail}
 
+## 10. Zvláštnosti termického proudění v horách {#bod-10}
 - Termika v horách startuje **dříve a končí později** než v rovině — svahy natočené ke slunci (ráno východní, večer západní) fungují jako efektivní kolektory.
 - Stoupavé proudy bývají **silnější, užší a turbulentnější**; termika se často „drží svahu" a kombinuje se se svahovým prouděním (**svahová termika**).
 - Nad hřebeny a v místech setkání údolních větrů vzniká **konvergence** — řadové stoupání.
@@ -111,8 +119,9 @@ V horách vzniká denní cirkulace řízená rozdílným ohřevem svahů a údol
 
 **Prakticky:** v horách kroužit s větší rezervou rychlosti a vzdálenosti od svahu; síla stoupání i turbulence rostou s výškou terénu a odpolední hodinou.
 
-## 11. Určování směru a síly větru
+[K dalšímu studiu →](meteorologie/10-termika-v-horach.html){: .btn-detail}
 
+## 11. Určování směru a síly větru {#bod-11}
 Před letem i za letu pilot vítr průběžně vyhodnocuje:
 
 - **Před startem:** předpověď a měření (aplikace, meteostanice na kopcích), **větrný rukáv**, praporky, dým z komínů, pohyb korun stromů, vlny na obilí a vodních hladinách, drift oblaků (pozor — výškový vítr se od přízemního liší směrem i silou).
@@ -123,8 +132,9 @@ Před letem i za letu pilot vítr průběžně vyhodnocuje:
 
 **⚠️ K verifikaci:** doporučené maximální rychlosti větru pro let PK (závisí na kategorii kluzáku, zkušenosti a předpisu provozovatele — nechat potvrdit instruktorem).
 
-## 12. Turbulence vyvolávaná terénními překážkami. Závětří kopce. Závislost na rychlosti proudění a tvaru překážky
+[K dalšímu studiu →](meteorologie/11-urcovani-vetru.html){: .btn-detail}
 
+## 12. Turbulence vyvolávaná terénními překážkami. Závětří kopce. Závislost na rychlosti proudění a tvaru překážky {#bod-12}
 Obtéká-li vítr překážku (kopec, les, budovu), vzniká za ní **závětrná turbulence** — **rotory**, tj. víry s vodorovnou osou, v nichž se střídá prudké stoupání, klesání a proudění proti směru větru.
 
 - **Rychlost proudění:** intenzita turbulence roste s rychlostí větru — přibližně s její **druhou mocninou**. Za slabého větru je závětří klidné, za silného smrtelně nebezpečné.
@@ -135,8 +145,9 @@ Obtéká-li vítr překážku (kopec, les, budovu), vzniká za ní **závětrná
 
 **⚠️ K verifikaci:** uváděný dosah závětrné turbulence v násobcích výšky překážky.
 
-## 13. Bouřky — základní principy vzniku, nebezpečí
+[K dalšímu studiu →](meteorologie/12-turbulence-zavetri.html){: .btn-detail}
 
+## 13. Bouřky — základní principy vzniku, nebezpečí {#bod-13}
 Bouřka vzniká z **cumulonimbu** při současném splnění tří podmínek: **velká labilita** do velké výšky, **dostatek vlhkosti** a **spouštěcí mechanismus** (termický ohřev, fronta, orografie). Cb prochází stadiem **vývoje** (jen stoupavé proudy), **zralosti** (stoupání i klesání, srážky, blesky) a **rozpadu**.
 
 Nebezpečí pro pilota PK:
@@ -148,5 +159,7 @@ Nebezpečí pro pilota PK:
 > **Bouřce se nedá „ulétnout" — jedinou obranou pilota PK je vůbec nevzlétnout, resp. přistát s velkým časovým předstihem, jakmile Cb mohutní.**
 
 **⚠️ K verifikaci:** typické hodnoty rychlosti stoupavých proudů v Cb a dosah gust fronty před bouřkou (v pramenech se liší).
+
+[K dalšímu studiu →](meteorologie/13-bourky.html){: .btn-detail}
 
 [← Zpět na přehled](../index.html){: .btn-zpet}

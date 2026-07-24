@@ -27,10 +27,14 @@ V reálné atmosféře je čisté laminární proudění vzácné — turbulenci
 
 **Vliv na let:** celkový odpor snižuje klouzavost. Proto pomáhá zalehnutí do postroje (menší škodlivý odpor) a proto klouzavost klesá při letu na brzdách (větší indukovaný odpor).
 
+[K dalšímu studiu →](aerodynamika/03-odpor.html){: .btn-detail}
+
 ## 4. Obtékání leteckého profilu, vznik vztlaku, závislost na rychlosti obtékání {#bod-4}
 Vzduch obtékající profil se nad horní (klenutější) stranou pohybuje rychleji než pod spodní. Rychlejší proudění = nižší statický tlak (Bernoulli) → nad křídlem vzniká podtlak, pod křídlem přetlak. Výslednice tlakových rozdílů je **vztlak**.
 
 **Klíčové:** vztlak roste s **druhou mocninou rychlosti obtékání** — dvojnásobná rychlost znamená čtyřnásobný vztlak.
+
+[K dalšímu studiu →](aerodynamika/04-obtekani-profilu-vztlak.html){: .btn-detail}
 
 ## 5. Úhel náběhu — souvislost se změnami vztlaku a odporu {#bod-5}
 **Úhel náběhu** je úhel mezi tětivou profilu a směrem nabíhajícího proudu vzduchu.
@@ -38,6 +42,8 @@ Vzduch obtékající profil se nad horní (klenutější) stranou pohybuje rychl
 - Zvětšování úhlu náběhu → vztlak roste, ale roste i odpor.
 - To platí jen do **kritického úhlu náběhu** — za ním se proud odtrhne a vztlak se hroutí.
 - Malý úhel náběhu → menší odpor, menší vztlak, vyšší rychlost.
+
+[K dalšímu studiu →](aerodynamika/05-uhel-nabehu.html){: .btn-detail}
 
 ## 6. Vliv změn úhlu náběhu na PK; odtrhávání proudu vzduchu {#bod-6}
 U padákového kluzáku mění pilot úhel náběhu **brzdami** (zvětšují) a **speed systémem** (zmenšuje):
@@ -47,10 +53,14 @@ U padákového kluzáku mění pilot úhel náběhu **brzdami** (zvětšují) a 
 
 Odtrhávání proudu začíná u odtokové hrany a postupuje dopředu; projevuje se změknutím řízení a poklesem aerodynamického hluku.
 
+[K dalšímu studiu →](aerodynamika/06-zmeny-uhlu-nabehu-odtrhavani.html){: .btn-detail}
+
 ## 7. Úplav za křídlem — základní princip vzniku jevu {#bod-7}
 Za letícím křídlem zůstává **úplav** — zvířený, klesající vzduch, který vzniká promícháním proudů z horní a spodní strany profilu a koncovými víry (důsledek vyrovnávání přetlaku a podtlaku na koncích křídla).
 
 **Praktický význam:** let těsně za jiným kluzákem (nebo za větroněm na svahu) znamená let v turbulenci, která může způsobit zaklopení. Držet rozestupy.
+
+[K dalšímu studiu →](aerodynamika/07-uplav-za-kridlem.html){: .btn-detail}
 
 ## 8. Výpočet plošného zatížení {#bod-8}
 > **plošné zatížení = letová hmotnost [kg] ÷ plocha křídla [m²]**
@@ -58,6 +68,8 @@ Za letícím křídlem zůstává **úplav** — zvířený, klesající vzduch,
 Letová hmotnost = pilot + výstroj + kluzák. Příklad: 95 kg / 26 m² ≈ **3,7 kg/m²**.
 
 **Vliv:** vyšší plošné zatížení → vyšší letové rychlosti, dynamičtější chování, větší odolnost proti zaklopení, ale tvrdší reakce a rychlejší opadání. Nižší zatížení → opačně.
+
+[K dalšímu studiu →](aerodynamika/08-plosne-zatizeni.html){: .btn-detail}
 
 ## 9. Rychlostní polára — význam, princip (vztah rychlosti a opadání) {#bod-9}
 Polára je křivka zobrazující **opadání (svislá osa) v závislosti na dopředné rychlosti (vodorovná osa)**. Z ní lze odečíst:
@@ -69,10 +81,14 @@ Polára je křivka zobrazující **opadání (svislá osa) v závislosti na dop�
 
 Význam: pilot z ní volí optimální režim letu pro danou situaci.
 
+[K dalšímu studiu →](aerodynamika/09-rychlostni-polara.html){: .btn-detail}
+
 ## 10. Klouzavost jako vztah mezi dopřednou a vertikální rychlostí {#bod-10}
 > **klouzavost = dopředná rychlost ÷ opadání = uletěná vzdálenost ÷ ztracená výška**
 
 Klouzavost 8 znamená: z 1 km výšky doletím (v klidném vzduchu) 8 km. Běžné školní PK mají klouzavost cca 7–9.
+
+[K dalšímu studiu →](aerodynamika/10-klouzavost.html){: .btn-detail}
 
 ## 11. Vliv větru na klouzavost a rychlost PK vůči zemi a vůči prostředí {#bod-11}
 Kluzák letí **vůči vzduchu** stále stejně — vítr ale unáší celou vzduchovou hmotu:
@@ -83,11 +99,15 @@ Kluzák letí **vůči vzduchu** stále stejně — vítr ale unáší celou vzd
 
 **Prakticky:** proti větru doletím kratší vzdálenost — počítat s tím při návratu na přistávačku (speed systém pomáhá proniknout proti větru).
 
+[K dalšímu studiu →](aerodynamika/11-vliv-vetru.html){: .btn-detail}
+
 ## 12. Stabilita PK {#bod-12}
 Stabilita = schopnost kluzáku **samovolně se vrátit do rovnovážného letového režimu** po vychýlení (turbulencí nebo zásahem pilota).
 
 - PK je stabilní především díky **kyvadlovému efektu** — pilot zavěšený hluboko pod vrchlíkem funguje jako závaží kyvadla.
 - Rozlišujeme stabilitu **podélnou** (klopení), **příčnou** (naklánění) a **směrovou** (zatáčení).
 - Certifikované kluzáky (třídy A–D) se liší právě mírou samovolného návratu do normálního letu — školní kluzáky (A) jsou nejstabilnější.
+
+[K dalšímu studiu →](aerodynamika/12-stabilita-pk.html){: .btn-detail}
 
 [← Zpět na přehled](../index.html){: .btn-zpet}

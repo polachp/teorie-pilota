@@ -25,9 +25,8 @@ Možnosti k rozhodnutí (zatím nerozhodnuto):
 
 ## 3. Detailní podstránky „K dalšímu studiu"
 
-- [ ] Hotové: Aerodynamika body 1–2 (proof of concept).
-- [ ] Vygenerovat detaily pro zbylé body Aerodynamiky (3–12).
-- [ ] Postupně další předměty (subagenti, po předmětech, se značením K verifikaci).
+- [x] Hotové: všech 71 bodů má detailní podstránku (psáno řečí instruktora, klíčové pojmy tučně, terminologie ověřována z internetu — LAA, ŘLP/AIP, ERC, učebnice Vykouk aj.).
+- [ ] Detaily obsahují **78 nových míst „⚠️ K verifikaci"** — přidat do odborné revize (sekce 2). Nejvíc: Předpisy 25, Nouzové postupy 16, Meteorologie 11.
 
 ## 4. Obrázky a schémata
 

@@ -2,8 +2,7 @@
 
 **Rozsah výuky:** bez kvalifikací 2,5 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 2,5 h
 
-## 1. Zaklopení vnějších částí vrchlíku — použití, reakce vrchlíku
-
+## 1. Zaklopení vnějších částí vrchlíku — použití, reakce vrchlíku {#bod-1}
 „Uši" jsou **záměrný manévr** ke zvýšení opadání při zachování dopředného letu — nejde o poruchu, ale o řízený sestupný režim.
 
 - **Použití:** rychlé opuštění stoupavého proudu (např. u mraku), sestup před zhoršením počasí, únik z prostoru, přiblížení v silnějším větru (uši + speed systém zvyšují i propadovou trajektorii proti větru).
@@ -17,8 +16,9 @@
 
 Nácvik manévru patří do výcviku pod dohledem instruktora, ideálně v rámci bezpečnostního kurzu (SIV) nad vodou.
 
-## 2. Asymetrické zaklopení — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/01-zaklopeni-usi.html){: .btn-detail}
 
+## 2. Asymetrické zaklopení — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí {#bod-2}
 Zaklopení (kolaps) části náběžné hrany na jedné straně — nejčastější porucha letového režimu PK.
 
 - **Podmínky vzniku:** turbulence (termika, závětří, úplav za jiným kluzákem, střih větru), zejména v kombinaci s **malým úhlem náběhu** — tedy při letu na speed systému nebo při nastřelení vrchlíku vpřed.
@@ -32,8 +32,9 @@ Nácvik zaklopení patří výhradně do bezpečnostního výcviku (SIV) nad vod
 
 **⚠️ K verifikaci:** doporučený rozsah přibrzdění letící strany (riziko přetažení) dle metodiky výcviku.
 
-## 3. Frontstall — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/02-asymetricke-zaklopeni.html){: .btn-detail}
 
+## 3. Frontstall — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí {#bod-3}
 Čelní zaklopení — symetrické podlomení celé náběžné hrany dolů/dozadu.
 
 - **Podmínky vzniku:** náhlý pokles úhlu náběhu po celém rozpětí — vlétnutí do silného sestupného proudu, výlet ze silného stoupání, turbulence při letu na **plném speed systému** (nejčastější příčina).
@@ -45,8 +46,9 @@ Nácvik zaklopení patří výhradně do bezpečnostního výcviku (SIV) nad vod
 
 Nácvik pouze v rámci SIV kurzu nad vodou pod dohledem instruktora.
 
-## 4. Provedení B stallu — použití, reakce vrchlíku, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/03-frontstall.html){: .btn-detail}
 
+## 4. Provedení B stallu — použití, reakce vrchlíku, nebezpečí {#bod-4}
 Řízené odtržení proudění stažením B-řady — sestupný manévr s vysokým opadáním bez dopředné rychlosti.
 
 - **Použití:** rychlá ztráta výšky (únik před mrakem, před frontou), když uši nestačí. Dnes se používá méně — na řadě moderních konstrukcí (zejména dvouřadých) jej **nelze nebo není vhodné provádět**; vždy rozhoduje manuál kluzáku.
@@ -59,8 +61,9 @@ Nácvik pouze v rámci SIV kurzu nad vodou pod dohledem instruktora.
 
 Nácvik výhradně na SIV kurzu nad vodou pod dohledem instruktora.
 
-## 5. Provedení spirály — použití, reakce vrchlíku, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/04-b-stall.html){: .btn-detail}
 
+## 5. Provedení spirály — použití, reakce vrchlíku, nebezpečí {#bod-5}
 Strmá spirála je **nejúčinnější sestupný manévr** — a zároveň manévr s největšími riziky.
 
 - **Použití:** nouzová rychlá ztráta výšky (nasávání do mraku, bouřka), když uši ani B-stall nestačí.
@@ -75,8 +78,9 @@ Strmá spirála je **nejúčinnější sestupný manévr** — a zároveň mané
 
 Nácvik pouze v rámci SIV kurzu nad vodou pod dohledem instruktora.
 
-## 6. Přetažení PK — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/05-spirala.html){: .btn-detail}
 
+## 6. Přetažení PK — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí {#bod-6}
 Přetažení (fullstall) = odtržení proudění na celém křídle po překročení kritického úhlu náběhu.
 
 - **Podmínky vzniku:** hluboko a dlouho stažené brzdy — let na minimální rychlosti, přetahovaná zatáčka, „dovybírání" v termice, vysoký flare ve výšce; riziko zvyšuje **mokrý vrchlík** (let v dešti) a let na spodní hranici hmotnostního rozsahu (nižší letové rychlosti).
@@ -88,8 +92,9 @@ Přetažení (fullstall) = odtržení proudění na celém křídle po překroč
 
 Nácvik fullstallu je pokročilý prvek výhradně SIV kurzu nad vodou pod dohledem instruktora.
 
-## 7. Asymetrické přetažení PK — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí
+[K dalšímu studiu →](nouzove-postupy/06-pretazeni.html){: .btn-detail}
 
+## 7. Asymetrické přetažení PK — podmínky vzniku, reakce kluzáku, řešení situace, nebezpečí {#bod-7}
 Přetažení jedné poloviny křídla — kluzák přechází do záporné rotace („negativka", obdoba vývrtky).
 
 - **Podmínky vzniku:** jednostranné hluboké stažení brzdy při malé rychlosti — ostrá zatáčka z pomalého letu, přebrzdění vnitřní strany při kroužení v termice, hrubý zásah při řešení jiné poruchy.
@@ -103,8 +108,9 @@ Nácvik pouze v rámci SIV kurzu nad vodou pod dohledem instruktora.
 
 **⚠️ K verifikaci:** doporučený postup vybrání rozvinuté negativní rotace (metodiky se liší dle typu kluzáku).
 
-## 8. Přetržení řídící šňůry za letu — řešení situace
+[K dalšímu studiu →](nouzove-postupy/07-asymetricke-pretazeni.html){: .btn-detail}
 
+## 8. Přetržení řídící šňůry za letu — řešení situace {#bod-8}
 Přetržení (či ztráta) řídicí šňůry nebo brzdy není důvod k panice — kluzák lze řídit náhradně.
 
 - **Řízení zadními popruhy:** uchopit **zadní popruhy (poslední řadu)** a řídit jejich mírným stahováním. Pozor — zadní popruhy působí na celou odtokovou část profilu: **účinek je razantnější a dráha do přetažení výrazně kratší** než u brzd. Zásahy proto jen malé a plynulé.
@@ -116,8 +122,9 @@ Přetržení (či ztráta) řídicí šňůry nebo brzdy není důvod k panice �
 
 **⚠️ K verifikaci:** doporučená technika podrovnání zadními popruhy dle výcvikové metodiky (rozsah a načasování).
 
-## 9. Nouzové přistání do lesa a na strom — řešení situace
+[K dalšímu studiu →](nouzove-postupy/08-pretrzeni-ridici-snury.html){: .btn-detail}
 
+## 9. Nouzové přistání do lesa a na strom — řešení situace {#bod-9}
 Pokud už nelze les přeletět ani se mu vyhnout, je řízené přistání do stromů zpravidla bezpečnější než pokus o „protažení" na nevhodnou plochu za každou cenu.
 
 - **Volba místa:** mířit **do středu koruny hustého, košatého stromu** (ne na okraj lesa, ne mezi kmeny, ne na sucháry) — koruna náraz ztlumí.
@@ -127,8 +134,9 @@ Pokud už nelze les přeletět ani se mu vyhnout, je řízené přistání do st
 
 > **Strom, který pilota zachytil, ho drží jen dočasně — první úkon po zastavení je zajistit se proti pádu.**
 
-## 10. Nouzové přistání do vody — řešení situace
+[K dalšímu studiu →](nouzove-postupy/09-pristani-do-lesa.html){: .btn-detail}
 
+## 10. Nouzové přistání do vody — řešení situace {#bod-10}
 Přistání do vody je životu nebezpečné — hlavním rizikem je **utonutí** po zamotání do šňůr a vrchlíku a stažení výstrojí pod hladinu.
 
 - **Prevence:** nelétat nad vodní plochou bez dostatečné výškové rezervy k doklouzání na břeh; pozor na to, že **výška nad hladinou se opticky velmi špatně odhaduje**.
@@ -140,8 +148,9 @@ Přistání do vody je životu nebezpečné — hlavním rizikem je **utonutí**
 
 **⚠️ K verifikaci:** doporučený okamžik a rozsah povolování postroje před dopadem do vody (metodiky se v detailech liší).
 
-## 11. Nebezpečí při přistání na elektrickém vedení
+[K dalšímu studiu →](nouzove-postupy/10-pristani-do-vody.html){: .btn-detail}
 
+## 11. Nebezpečí při přistání na elektrickém vedení {#bod-11}
 Elektrické vedení je jedna z nejzávažnějších překážek — kontakt může být smrtelný i **bez přímého dotyku vodiče** (přeskok napětí).
 
 - **Prevence:** vedení je ze vzduchu špatně vidět (dráty proti terénu splývají) — pátrat po **stožárech a sloupech** a spojnici mezi nimi; při nouzovém výběru plochy se vedení vyhnout s velkou rezervou.
@@ -151,8 +160,9 @@ Elektrické vedení je jedna z nejzávažnějších překážek — kontakt mů�
 
 > **Od vedení může zachránit jen vypnutý proud — nikdy se nevyprošťovat sám a nikoho nenechat sahat na výstroj, dokud energetici vedení nevypnou.**
 
-## 12. Vlečení pilota kluzákem po zemi při silném větru — řešení situace
+[K dalšímu studiu →](nouzove-postupy/11-elektricke-vedeni.html){: .btn-detail}
 
+## 12. Vlečení pilota kluzákem po zemi při silném větru — řešení situace {#bod-12}
 Naplněný vrchlík na zemi za silného větru vyvine sílu, kterou pilot neudrží — nechá-li se situace rozvinout, je vlečen po zemi.
 
 - **Podmínky vzniku:** silný či nárazový vítr při startu, po přistání, při pozemní přípravě; podcenění větru při zapnutém postroji.
@@ -167,8 +177,9 @@ Naplněný vrchlík na zemi za silného větru vyvine sílu, kterou pilot neudr�
 
 **⚠️ K verifikaci:** preferovaná technika zhášení (jedna brzda vs. zadní popruhy) dle aktuální výcvikové metodiky.
 
-## 13. Přefouknutí na závětrnou stranu kopce — řešení situace
+[K dalšímu studiu →](nouzove-postupy/12-vleceni-po-zemi.html){: .btn-detail}
 
+## 13. Přefouknutí na závětrnou stranu kopce — řešení situace {#bod-13}
 Přefouknutí = vítr přenese pilota přes hřeben do **závětří**, kde ho čekají rotory, silná turbulence a sestupné proudění.
 
 - **Podmínky vzniku:** zesílení větru během letu, kroužení v termice se snosem za hřeben, podcenění rychlosti větru vůči rychlosti kluzáku (pilot „couvá").
@@ -178,8 +189,9 @@ Přefouknutí = vítr přenese pilota přes hřeben do **závětří**, kde ho �
 
 > **Ze závětří vede cesta po větru a od kopce — ne zpět přes hřeben.**
 
-## 14. Záložní padák. Použití, údržba, funkčnost systému
+[K dalšímu studiu →](nouzove-postupy/13-prefouknuti-do-zavetri.html){: .btn-detail}
 
+## 14. Záložní padák. Použití, údržba, funkčnost systému {#bod-14}
 Záložní padák je poslední záchrana pro situace, které už nelze vyřešit řízením.
 
 - **Kdy házet:** neřešitelná porucha nebo rotace (kravata s rotací, rozvinutá negativka, kaskáda poruch, zamotaný pilot po twistu), srážka s jiným kluzákem, destrukce výstroje — a vždy, když **výška nestačí na řešení situace řízením**. V malé výšce neváhat: pozdní hod je nejčastější chyba.
@@ -190,5 +202,7 @@ Záložní padák je poslední záchrana pro situace, které už nelze vyřešit
 > **Záložní padák funguje jen tehdy, když je včas hozen, správně zabalen a pilot má hod nacvičený.**
 
 **⚠️ K verifikaci:** předepsaný interval přebalování záložního padáku (dle výrobce a předpisů LAA ČR) a doporučená minimální výška pro použití.
+
+[K dalšímu studiu →](nouzove-postupy/14-zalozni-padak.html){: .btn-detail}
 
 [← Zpět na přehled](../index.html){: .btn-zpet}

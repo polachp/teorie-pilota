@@ -2,8 +2,7 @@
 
 **Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 0,25 h
 
-## 1. Tvar zeměkoule, rovnoběžky a poledníky
-
+## 1. Tvar zeměkoule, rovnoběžky a poledníky {#bod-1}
 Země není přesná koule, ale **geoid** — na pólech zploštělé těleso; pro navigaci ji nahrazujeme referenčním elipsoidem (GPS používá **WGS-84**). Na povrchu je položena souřadnicová síť:
 
 - **Poledníky (meridiány)** — půlkružnice spojující severní a jižní pól. Základní (nultý) poledník prochází Greenwichem; od něj měříme **zeměpisnou délku** 0–180° východně (E) nebo západně (W).
@@ -12,8 +11,9 @@ Země není přesná koule, ale **geoid** — na pólech zploštělé těleso; p
 
 **Prakticky:** 1 minuta zeměpisné šířky odpovídá 1 námořní míli (1 852 m) — na poledníku vždy, na rovnoběžce jen na rovníku. Souřadnice jsou jednoznačný způsob, jak nahlásit polohu (např. záchranné službě).
 
-## 2. Používání času v letectví — UTC, SEČ, SELČ
+[K dalšímu studiu →](letecka-navigace/01-tvar-zeme-souradnice.html){: .btn-detail}
 
+## 2. Používání času v letectví — UTC, SEČ, SELČ {#bod-2}
 V letectví se celosvětově používá **UTC** (koordinovaný světový čas, dříve GMT, v letecké frazeologii „zulu", značka Z). Všechny letecké dokumenty — AIP, NOTAM, meteorologické zprávy, časy východu a západu slunce — jsou uváděny v UTC, aby nedocházelo k omylům mezi časovými pásmy.
 
 > **SEČ (středoevropský čas) = UTC + 1 h**
@@ -22,8 +22,9 @@ V letectví se celosvětově používá **UTC** (koordinovaný světový čas, d
 
 **Proč to pilota zajímá:** kdo si při čtení NOTAMu nebo METARu splete UTC s místním časem, může se ocitnout v prostoru v době jeho aktivace nebo létat po západu slunce.
 
-## 3. Východ a západ slunce — posun v ročních obdobích
+[K dalšímu studiu →](letecka-navigace/02-cas-v-letectvi.html){: .btn-detail}
 
+## 3. Východ a západ slunce — posun v ročních obdobích {#bod-3}
 Časy východu a západu slunce se během roku výrazně mění — je to důsledek sklonu zemské osy:
 
 - **Letní slunovrat (cca 21. 6.)** — nejdelší den, v ČR slunce vychází kolem 5. hodiny a zapadá kolem 21. hodiny místního času.
@@ -34,8 +35,9 @@ V letectví se celosvětově používá **UTC** (koordinovaný světový čas, d
 
 **⚠️ K verifikaci:** přesné vymezení povolené doby letu (den = od východu do západu slunce, případně občanský soumrak ±30 min) podle aktuálního znění předpisů pro SLZ (ZL-1/pravidla létání) — uvést přesnou citaci.
 
-## 4. Mapy — zobrazení, měřítka, topografická situace
+[K dalšímu studiu →](letecka-navigace/03-vychod-zapad-slunce.html){: .btn-detail}
 
+## 4. Mapy — zobrazení, měřítka, topografická situace {#bod-4}
 Mapa je zmenšené rovinné zobrazení zemského povrchu. Základem pro VFR létání v ČR je **letecká mapa ICAO ČR v měřítku 1 : 500 000** — 1 cm na mapě odpovídá 5 km ve skutečnosti.
 
 - **Měřítko** — poměr vzdálenosti na mapě ke skutečnosti; čím menší číslo za jedničkou, tím podrobnější mapa.
@@ -46,8 +48,9 @@ Mapa je zmenšené rovinné zobrazení zemského povrchu. Základem pro VFR lét
 
 **⚠️ K verifikaci:** aktuální oficiální zdroj mapy ICAO ČR (vydává ŘLP ČR / AIM) a zda jsou výšky na české mapě ICAO skutečně ve ft.
 
-## 5. GPS — princip, zobrazení, použití
+[K dalšímu studiu →](letecka-navigace/04-mapy.html){: .btn-detail}
 
+## 5. GPS — princip, zobrazení, použití {#bod-5}
 **Princip:** přijímač GPS měří čas šíření signálu z družic obíhajících Zemi; ze vzdáleností k **nejméně čtyřem družicím** vypočte svou polohu (šířka, délka, výška). GPS je pasivní — přijímač nic nevysílá.
 
 **Co pilotovi ukazuje:**
@@ -61,8 +64,9 @@ Mapa je zmenšené rovinné zobrazení zemského povrchu. Základem pro VFR lét
 
 **Prakticky:** GPS je pomocník, ne náhrada navigace — baterie se vybíjí, signál může vypadnout. Základem zůstává mapa a srovnávací navigace.
 
-## 6. Srovnávací navigace
+[K dalšímu studiu →](letecka-navigace/05-gps.html){: .btn-detail}
 
+## 6. Srovnávací navigace {#bod-6}
 Základní navigační metoda VFR létání: **průběžné porovnávání mapy se skutečným terénem** pod sebou. Pilot si drží orientaci podle výrazných **orientačních bodů**:
 
 - **liniové** — řeky, silnice, železnice, elektrovody, okraje pohoří (dobře se podle nich „vede" trať),
@@ -73,8 +77,9 @@ Základní navigační metoda VFR létání: **průběžné porovnávání mapy 
 
 **Prakticky:** u přeletů na PK je srovnávací navigace hlavním nástrojem, jak se nedostat do řízeného prostoru a jak včas vybrat vhodné přistávací plochy podél trati.
 
-## 7. Postup pro nastavování výškoměru
+[K dalšímu studiu →](letecka-navigace/06-srovnavaci-navigace.html){: .btn-detail}
 
+## 7. Postup pro nastavování výškoměru {#bod-7}
 Barometrický výškoměr měří tlak vzduchu a převádí ho na výšku — ukazuje ale správně jen tehdy, je-li správně **nastaven na referenční hladinu**:
 
 - **QNH** — výškoměr ukazuje **nadmořskou výšku** (výšku nad střední hladinou moře). Nastavení vhodné pro srovnávání s kótami na mapě a s výškovými hranicemi prostorů.
@@ -85,5 +90,7 @@ Barometrický výškoměr měří tlak vzduchu a převádí ho na výšku — uk
 **Prakticky:** tlak se během dne mění, proto výškoměr před každým letem znovu srovnej. Pamatuj, s čím letíš — údaj „500 m" znamená při QNH nadmořskou výšku, při QFE výšku nad startovištěm; záměna vede k chybnému odhadu výšky nad terénem i vůči prostorům.
 
 **⚠️ K verifikaci:** přesné definice Q-kódů (QNH/QFE/QNE) dle platné letecké terminologie a zda je pro SLZ v ČR předepsáno konkrétní standardní nastavení.
+
+[K dalšímu studiu →](letecka-navigace/07-nastaveni-vyskomeru.html){: .btn-detail}
 
 [← Zpět na přehled](../index.html){: .btn-zpet}

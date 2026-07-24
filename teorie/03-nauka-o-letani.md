@@ -2,8 +2,7 @@
 
 **Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,25 h · ostatní piloti 0,25 h
 
-## 1. Vliv větru na start, zatáčku, rychlost vzhledem k zemi, klouzavost a přistání
-
+## 1. Vliv větru na start, zatáčku, rychlost vzhledem k zemi, klouzavost a přistání {#bod-1}
 Kluzák letí stále stejnou rychlostí **vůči vzduchu** — vítr ale unáší celou vzduchovou hmotu, a tím mění pohyb **vůči zemi**:
 
 - **Start** — vždy proti větru: protivítr snižuje potřebnou rychlost rozběhu, křídlo se dříve naplní a nese. Start po větru je nebezpečný (dlouhý rozběh, vysoká rychlost vůči zemi).
@@ -13,8 +12,9 @@ Kluzák letí stále stejnou rychlostí **vůči vzduchu** — vítr ale unáš�
 
 **Prakticky:** pilot musí neustále vnímat, kde je vítr — start, kroužení u terénu i přistání se plánují podle něj.
 
-## 2. Předstartovní kontrola (pětibodová kontrola)
+[K dalšímu studiu →](nauka-o-letani/01-vliv-vetru.html){: .btn-detail}
 
+## 2. Předstartovní kontrola (pětibodová kontrola) {#bod-2}
 Před **každým** startem provede pilot pětibodovou kontrolu — vždy ve stejném pořadí, aby se z ní stal automatický návyk:
 
 1. **Postroj a karabiny** — nožní, hrudní (příp. bederní) popruhy zapnuté a dotažené, karabiny volných konců zamčené.
@@ -27,8 +27,9 @@ Přesné pořadí a formulace jednotlivých bodů se mohou mezi školami mírně
 
 **⚠️ K verifikaci:** přesné znění pětibodové kontroly dle výcvikové praxe instruktora
 
-## 3. Důležité informace o letovém terénu (prostory, předpisy, meteo, praktická vhodnost)
+[K dalšímu studiu →](nauka-o-letani/02-predstartovni-kontrola.html){: .btn-detail}
 
+## 3. Důležité informace o letovém terénu (prostory, předpisy, meteo, praktická vhodnost) {#bod-3}
 Před letem v neznámém terénu si pilot zjistí:
 
 - **Vzdušný prostor** — zda terén neleží v řízeném či omezeném prostoru (CTR, TMA, zakázané a omezené prostory) a jaká platí výšková omezení.
@@ -40,8 +41,9 @@ Před letem v neznámém terénu si pilot zjistí:
 
 **⚠️ K verifikaci:** aktuální stav vzdušných prostorů a místních provozních řádů konkrétních terénů (mění se v čase)
 
-## 4. Přepočet kilometrů za hodinu na metry za sekundu a naopak
+[K dalšímu studiu →](nauka-o-letani/03-letovy-teren.html){: .btn-detail}
 
+## 4. Přepočet kilometrů za hodinu na metry za sekundu a naopak {#bod-4}
 > **m/s = km/h ÷ 3,6  ·  km/h = m/s × 3,6**
 
 - 1 m/s = 3,6 km/h (hodina má 3600 s, kilometr 1000 m → 3600/1000 = 3,6).
@@ -50,8 +52,9 @@ Před letem v neznámém terénu si pilot zjistí:
 
 **Proč to pilota zajímá:** rychlost letu se běžně udává v km/h, ale vítr, stoupání a opadání v m/s — pilot musí mezi jednotkami převádět okamžitě (např. vítr 8 m/s ≈ 29 km/h je pro školní kluzák s rychlostí ~38 km/h už na hranici pronikání).
 
-## 5. Technika aktivní pilotáže v turbulenci
+[K dalšímu studiu →](nauka-o-letani/04-prepocet-jednotek.html){: .btn-detail}
 
+## 5. Technika aktivní pilotáže v turbulenci {#bod-5}
 Cílem aktivní pilotáže je **udržet vrchlík stále nad hlavou a naplněný** — pilot nečeká na následky turbulence, ale průběžně je tlumí:
 
 - Letět s **mírně přibrzděným křídlem** (lehký tah v brzdách) — pilot cítí tlak vrchlíku a má rezervu k reakci.
@@ -62,8 +65,9 @@ Cílem aktivní pilotáže je **udržet vrchlík stále nad hlavou a naplněný*
 
 **Prakticky:** v turbulenci nelétat na plném speedu (malý úhel náběhu = náchylnost k zaklopení) a udržovat dostatečnou výškovou rezervu nad terénem.
 
-## 6. Zvláštnosti vzletu a letu ve velké nadmořské výšce
+[K dalšímu studiu →](nauka-o-letani/05-aktivni-pilotaz.html){: .btn-detail}
 
+## 6. Zvláštnosti vzletu a letu ve velké nadmořské výšce {#bod-6}
 Ve velké nadmořské výšce je vzduch **řidší** (nižší hustota) — k vytvoření stejného vztlaku a dynamického tlaku je potřeba vyšší **skutečná rychlost** vůči vzduchu:
 
 - **Delší a rychlejší rozběh** při startu — křídlo se plní pomaleji a nese až při vyšší rychlosti vůči zemi; nutný ráznější, delší rozběh.
@@ -73,8 +77,9 @@ Ve velké nadmořské výšce je vzduch **řidší** (nižší hustota) — k vy
 
 **⚠️ K verifikaci:** orientační kvantifikace nárůstu skutečné rychlosti s výškou (řádově jednotky % na 1000 m) — dohledat přesnou hodnotu
 
-## 7. Trimovací zařízení a speed systém — funkce
+[K dalšímu studiu →](nauka-o-letani/06-let-ve-velke-vysce.html){: .btn-detail}
 
+## 7. Trimovací zařízení a speed systém — funkce {#bod-7}
 Obě zařízení mění **úhel náběhu** křídla, a tím rychlost letu — na rozdíl od brzd ale směrem k **vyšší rychlosti**:
 
 - **Trimy** — přezky na zadních volných koncích (typicky u motorových a tandemových PK). Povolení trimů prodlouží zadní řady → zmenší úhel náběhu → trvale vyšší rychlost bez držení. Nastavují se „na dobu letu", nikoli pro okamžité reakce.
@@ -84,5 +89,7 @@ Obě zařízení mění **úhel náběhu** křídla, a tím rychlost letu — na
 **Prakticky:** speed systém je hlavní nástroj pro **pronikání proti větru** a únik z klesajícího vzduchu; brzdy a speed nikdy nepoužívat současně.
 
 **⚠️ K verifikaci:** konstrukční detaily trimů u konkrétních typů (které řady prodlužují/zkracují se u výrobců liší)
+
+[K dalšímu studiu →](nauka-o-letani/07-trimy-a-speed.html){: .btn-detail}
 
 [← Zpět na přehled](../index.html){: .btn-zpet}
