@@ -1,6 +1,8 @@
 # Aerodynamika
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.1. Rozsah výuky: 2,5 h (bez kvalifikací).*
+*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.1.*
+
+**Rozsah výuky:** bez kvalifikací 2,5 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 0,5 h
 
 ## 1. Tlak vzduchu (statický, dynamický, celkový)
 

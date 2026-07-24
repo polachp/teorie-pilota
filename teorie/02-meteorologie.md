@@ -2,6 +2,8 @@
 
 *Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.2.*
 
+**Rozsah výuky:** bez kvalifikací 3,0 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 0,5 h
+
 ## 1. Teplota, její změna s výškou
 
 *(bude doplněno)*

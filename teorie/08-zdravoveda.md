@@ -2,6 +2,8 @@
 
 *Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.8.*
 
+**Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 1,0 h
+
 ## 1. Zásady přivolání zdravotnické pomoci
 
 *(bude doplněno)*
