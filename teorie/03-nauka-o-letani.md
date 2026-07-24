@@ -1,7 +1,5 @@
 # Nauka o létání
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.3.*
-
 **Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,25 h · ostatní piloti 0,25 h
 
 ## 1. Vliv větru na start, zatáčku, rychlost vzhledem k zemi, klouzavost a přistání

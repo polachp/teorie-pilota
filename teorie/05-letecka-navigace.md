@@ -1,7 +1,5 @@
 # Letecká navigace
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.5.*
-
 **Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 0,25 h
 
 ## 1. Tvar zeměkoule, rovnoběžky a poledníky

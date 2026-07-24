@@ -1,7 +1,5 @@
 # Předpisy
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.7.*
-
 **Rozsah výuky:** bez kvalifikací 3,0 h · s kvalifikací PPG/MPG 2,0 h · ostatní piloti 1,5 h
 
 ## 1. Zákon č. 49/1997 Sb., o civilním letectví a prováděcí vyhlášky v platném znění — části týkající se provozu PK/ZK

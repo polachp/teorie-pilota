@@ -1,7 +1,5 @@
 # Stavba a konstrukce PK
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.4.*
-
 **Rozsah výuky:** bez kvalifikací 1,0 h · s kvalifikací PPG/MPG 0,25 h · ostatní piloti 1,0 h
 
 ## 1. Základní části padákového kluzáku

@@ -1,7 +1,5 @@
 # Nouzové postupy
 
-*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.6.*
-
 **Rozsah výuky:** bez kvalifikací 2,5 h · s kvalifikací PPG/MPG 0,5 h · ostatní piloti 2,5 h
 
 ## 1. Zaklopení vnějších částí vrchlíku — použití, reakce vrchlíku
