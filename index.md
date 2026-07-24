@@ -15,6 +15,11 @@ Teoretické znalosti požadované ke kvalifikaci **PILOT** dle osnovy **PL 3 –
 7. [Předpisy](teorie/07-predpisy.html)
 8. [Zdravověda](teorie/08-zdravoveda.html)
 
-## O teoretické přípravě
+## O projektu
 
-Teoretická příprava je první částí výcviku pilota PL. Je prováděna instruktorem nebo lektory s odpovídajícími znalostmi daného předmětu. Účast na přípravě je hodnocena a evidována instruktorem vedoucím výcvik. Posloupnost teoretické přípravy musí být taková, aby bylo vždy zajištěno správné pochopení látky daného předmětu v dostatečném předstihu před praktickou částí výcviku.
+Tento web zpracovává okruhy požadovaných znalostí z osnovy PL 3 (bod 2.3) do podoby přehledných studijních stránek. Struktura přesně kopíruje osnovu — každý předmět má svou stránku a každý bod osnovy je na ní samostatnou kapitolou s vysvětlením pojmů a praktickým dopadem na létání.
+
+**Cíl projektu:**
+
+- **Pro přednášejícího** — osnova jednotlivých témat jako opora při výuce teoretické přípravy a podklad pro přípravu na přednášku.
+- **Pro žáky** — srozumitelný studijní materiál k samostudiu před přednáškou i k opakování před zkouškou.
