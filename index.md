@@ -2,6 +2,8 @@
 
 Teoretické znalosti požadované ke kvalifikaci **PILOT** dle osnovy **PL 3 – Osnova výcviku pilota padákového kluzáku** (Hlava 2, znění ze dne 1. 3. 2011). Každý předmět má vlastní stránku s detailně rozepsanými body osnovy.
 
+📄 <a href="dokumenty/PL3.pdf" target="_blank" rel="noopener">Celý předpis PL 3 ke stažení (PDF)</a> — otevře se v novém okně.
+
 ## Vyučovací předměty
 
 1. [Aerodynamika](teorie/01-aerodynamika.html)
