@@ -6,14 +6,16 @@ Teoretické znalosti požadované ke kvalifikaci **PILOT** dle osnovy **PL 3 –
 
 ## Vyučovací předměty
 
-1. [Aerodynamika](teorie/01-aerodynamika.html)
-2. [Meteorologie](teorie/02-meteorologie.html)
-3. [Nauka o létání](teorie/03-nauka-o-letani.html)
-4. [Stavba a konstrukce PK](teorie/04-stavba-a-konstrukce-pk.html)
-5. [Letecká navigace](teorie/05-letecka-navigace.html)
-6. [Nouzové postupy](teorie/06-nouzove-postupy.html)
-7. [Předpisy](teorie/07-predpisy.html)
-8. [Zdravověda](teorie/08-zdravoveda.html)
+<nav class="predmety">
+  <a href="teorie/01-aerodynamika.html"><span class="cislo">1</span> Aerodynamika <span class="sipka">›</span></a>
+  <a href="teorie/02-meteorologie.html"><span class="cislo">2</span> Meteorologie <span class="sipka">›</span></a>
+  <a href="teorie/03-nauka-o-letani.html"><span class="cislo">3</span> Nauka o létání <span class="sipka">›</span></a>
+  <a href="teorie/04-stavba-a-konstrukce-pk.html"><span class="cislo">4</span> Stavba a konstrukce PK <span class="sipka">›</span></a>
+  <a href="teorie/05-letecka-navigace.html"><span class="cislo">5</span> Letecká navigace <span class="sipka">›</span></a>
+  <a href="teorie/06-nouzove-postupy.html"><span class="cislo">6</span> Nouzové postupy <span class="sipka">›</span></a>
+  <a href="teorie/07-predpisy.html"><span class="cislo">7</span> Předpisy <span class="sipka">›</span></a>
+  <a href="teorie/08-zdravoveda.html"><span class="cislo">8</span> Zdravověda <span class="sipka">›</span></a>
+</nav>
 
 ## O projektu
 

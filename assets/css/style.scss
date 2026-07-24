@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Rozcestník předmětů — dotykové dlaždice (min. 48px cíl dle Material/HIG) */
+.predmety {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.7rem;
+  margin: 1.2rem 0 2rem;
+}
+
+@media screen and (min-width: 42em) {
+  .predmety {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.predmety a {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  min-height: 3.25rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(21, 120, 120, 0.35);
+  border-radius: 10px;
+  background: #f4fafa;
+  color: #155e5e;
+  font-size: 1.05rem;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(21, 120, 120, 0.15);
+}
+
+.predmety a:hover,
+.predmety a:focus {
+  background: #e4f3f3;
+  border-color: #157878;
+  text-decoration: none;
+}
+
+.predmety a:active {
+  background: #d2ebeb;
+}
+
+.predmety .cislo {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: #157878;
+  color: #fff;
+  font-size: 0.95rem;
+}
+
+.predmety .sipka {
+  margin-left: auto;
+  color: #157878;
+  font-size: 1.3rem;
+  line-height: 1;
+}
