@@ -1,0 +1,23 @@
+# Stavba a konstrukce PK
+
+*Okruhy požadovaných znalostí dle PL 3, Hlava 2, bod 2.3.4.*
+
+## 1. Základní části padákového kluzáku
+
+*(bude doplněno)*
+
+## 2. Funkce jednotlivých částí padákového kluzáku
+
+*(bude doplněno)*
+
+## 3. Údržba a opravy PK a příslušenství
+
+*(bude doplněno)*
+
+## 4. Technická způsobilost PK (se zaměřením na význam prohlídek PK)
+
+*(bude doplněno)*
+
+---
+
+[← Zpět na přehled](../index.html)
