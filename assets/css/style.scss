@@ -1,28 +1,58 @@
 ---
 ---
 
-/* Letecká paleta — přepis proměnných Cayman tématu před importem */
-$header-bg-color: #1E7BC4;            /* letová modrá */
-$header-bg-color-secondary: #0E2A4E;  /* půlnoční navy */
-$section-headings-color: #114B77;     /* ocelová modrá */
+/* =========================================================
+   Téma „Letová hladina"
+   Paleta:  půlnoční navy #0E2A4E · letová modrá #1E7BC4
+            ocelová #114B77 · zlatá úsvitu #F0A63C · mlžná #F2F8FD
+   Písma:   Barlow Condensed (nadpisy — letecké značení)
+            Barlow (text)
+   ========================================================= */
+
+$header-bg-color: #1E7BC4;
+$header-bg-color-secondary: #0E2A4E;
+$section-headings-color: #114B77;
 $body-link-color: #1E7BC4;
-$body-text-color: #2A3540;
+$body-text-color: #26313B;
 
 @import "{{ site.theme }}";
 
-/* Systémová písma — rychlejší načtení na mobilu než webfont */
+$gold: #F0A63C;
+$navy: #0E2A4E;
+$steel: #114B77;
+$blue: #1E7BC4;
+$mist: #F2F8FD;
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
+  font-family: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-/* ---------- Hlavička: kompaktní, obsah dřív na obrazovce ---------- */
+::selection {
+  background: rgba(240, 166, 60, 0.35);
+}
+
+/* ---------- Hlavička: soumraková obloha se zlatým horizontem ---------- */
 .page-header {
-  padding: 2.5rem 1rem 2rem;
+  padding: 2.6rem 1rem 2.1rem;
+  background-image: linear-gradient(160deg, #0E2A4E 0%, #14508F 60%, #1E7BC4 100%);
+  border-bottom: 3px solid $gold;
 }
 
 .project-name {
+  font-family: "Barlow Condensed", "Barlow", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.015em;
   text-wrap: balance;
+}
+
+.project-tagline {
+  font-family: "Barlow Condensed", "Barlow", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.95rem;
+  opacity: 0.75;
 }
 
 .page-header .btn {
@@ -31,68 +61,105 @@ body {
   justify-content: center;
   min-height: 44px;
   padding: 0.55rem 1.2rem;
-  margin-top: 0.4rem;
-  border-radius: 10px;
-  border-color: rgba(255, 255, 255, 0.35);
-  background: rgba(255, 255, 255, 0.12);
+  margin-top: 0.5rem;
+  border-radius: 999px;
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.1);
+  font-weight: 600;
+}
+
+.page-header .btn:hover,
+.page-header .btn:focus {
+  border-color: $gold;
+  color: $gold;
+  background: rgba(255, 255, 255, 0.08);
 }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 1.4rem 1rem 1.2rem;
+    padding: 1.5rem 1rem 1.25rem;
   }
   .project-name {
-    font-size: 1.45rem;
-    margin-bottom: 0.15rem;
+    font-size: 1.7rem;
+    margin-bottom: 0.1rem;
   }
   .project-tagline {
-    font-size: 0.95rem;
-    opacity: 0.85;
-    margin-bottom: 0.7rem;
-  }
-  .page-header .btn + .btn {
-    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    margin-bottom: 0.75rem;
   }
 }
 
 /* ---------- Obsah ---------- */
+.main-content {
+  line-height: 1.65;
+
+  h1,
+  h2,
+  h3 {
+    font-family: "Barlow Condensed", "Barlow", sans-serif;
+    letter-spacing: 0.01em;
+    text-wrap: balance;
+  }
+
+  /* Titul stránky se zlatou linkou — „ukazatel kurzu" */
+  h1 {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: $navy;
+    margin-bottom: 0.6rem;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 3.5rem;
+      height: 0.28rem;
+      margin-top: 0.55rem;
+      border-radius: 999px;
+      background: linear-gradient(90deg, $gold, rgba(240, 166, 60, 0.25));
+    }
+  }
+
+  /* Body osnovy — oddělené úseky pro orientaci při scrollování */
+  h2 {
+    font-size: 1.55rem;
+    font-weight: 600;
+    margin-top: 2.3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid #dce9f4;
+  }
+
+  h1 + p em,
+  h1 + p + p em {
+    color: #5b7186;
+  }
+
+  strong {
+    font-weight: 600;
+    color: #1b2833;
+  }
+
+  /* Vzorce a klíčové poučky — zvýrazněný box */
+  blockquote {
+    margin: 1.1rem 0;
+    padding: 0.85rem 1.1rem;
+    background: $mist;
+    border-left: 4px solid $gold;
+    border-radius: 0 10px 10px 0;
+    color: #24466b;
+    font-size: inherit;
+  }
+}
+
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 1.5rem 1rem;
     font-size: 1rem;
   }
   .main-content h1 {
-    font-size: 1.55rem;
+    font-size: 1.8rem;
   }
   .main-content h2 {
-    font-size: 1.15rem;
-  }
-}
-
-.main-content {
-  line-height: 1.65;
-
-  /* Každý bod osnovy je vizuálně oddělený úsek — orientace při scrollování */
-  h2 {
-    margin-top: 2.2rem;
-    padding-top: 1.2rem;
-    border-top: 1px solid #dce9f4;
-  }
-
-  h1 + p > em,
-  h1 + p em {
-    color: #5b7186;
-  }
-
-  /* Vzorce a klíčové poučky — zvýrazněný box */
-  blockquote {
-    margin: 1rem 0;
-    padding: 0.8rem 1rem;
-    background: #f2f8fd;
-    border-left: 4px solid #1e7bc4;
-    border-radius: 0 8px 8px 0;
-    color: #24466b;
-    font-size: inherit;
+    font-size: 1.35rem;
   }
 }
 
@@ -114,27 +181,28 @@ body {
   display: flex;
   align-items: center;
   gap: 0.9rem;
-  min-height: 3.25rem;
+  min-height: 3.4rem;
   padding: 0.85rem 1rem;
   border: 1px solid rgba(30, 123, 196, 0.35);
-  border-radius: 10px;
-  background: #f2f8fd;
-  color: #114b77;
-  font-size: 1.05rem;
+  border-radius: 12px;
+  background: $mist;
+  color: $steel;
+  font-size: 1.1rem;
   font-weight: 600;
   text-decoration: none;
-  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
+  -webkit-tap-highlight-color: rgba(240, 166, 60, 0.2);
 }
 
 .predmety a:hover,
 .predmety a:focus {
   background: #e3f0fa;
-  border-color: #1e7bc4;
+  border-color: $blue;
   text-decoration: none;
 }
 
 .predmety a:active {
   background: #d3e7f7;
+  border-color: $gold;
 }
 
 .predmety .cislo {
@@ -142,18 +210,20 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 2rem;
+  width: 2.1rem;
+  height: 2.1rem;
   border-radius: 50%;
-  background: #1e7bc4;
+  background: $steel;
   color: #fff;
-  font-size: 0.95rem;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
 }
 
 .predmety .sipka {
   margin-left: auto;
-  color: #1e7bc4;
-  font-size: 1.3rem;
+  color: $gold;
+  font-size: 1.4rem;
   line-height: 1;
 }
 
@@ -163,24 +233,25 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 48px;
-  margin-top: 2.2rem;
+  margin-top: 2.4rem;
   padding: 0.8rem 1rem;
   border: 1px solid rgba(30, 123, 196, 0.35);
-  border-radius: 10px;
-  background: #f2f8fd;
-  color: #114b77;
+  border-radius: 12px;
+  background: $mist;
+  color: $steel;
   font-weight: 600;
   text-decoration: none;
-  -webkit-tap-highlight-color: rgba(30, 123, 196, 0.15);
+  -webkit-tap-highlight-color: rgba(240, 166, 60, 0.2);
 }
 
 .btn-zpet:hover,
 .btn-zpet:focus {
   background: #e3f0fa;
-  border-color: #1e7bc4;
+  border-color: $blue;
   text-decoration: none;
 }
 
 .btn-zpet:active {
   background: #d3e7f7;
+  border-color: $gold;
 }
