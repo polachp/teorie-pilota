@@ -20,12 +20,15 @@ V reálné atmosféře je čisté laminární proudění vzácné — turbulenci
 [K dalšímu studiu →](aerodynamika/02-laminarni-turbulentni-proudeni.html){: .btn-detail}
 
 ## 3. Odpor. Druhy odporu, vliv na let PK {#bod-3}
-- **Tvarový (profilový) odpor** — daný tvarem obtékaného tělesa.
-- **Třecí odpor** — tření vzduchu o povrch.
-- **Škodlivý odpor** — pilot, postroj, šňůry (u PK významný podíl!).
-- **Indukovaný odpor** — nevyhnutelný důsledek vzniku vztlaku (koncové víry), roste s úhlem náběhu.
+Odpor se skládá ze tří částí:
 
-**Vliv na let:** celkový odpor snižuje klouzavost. Proto pomáhá zalehnutí do postroje (menší škodlivý odpor) a proto klouzavost klesá při letu na brzdách (větší indukovaný odpor).
+- **Třecí odpor** — smykové napětí v mezní vrstvě na povrchu tělesa; je úměrný omočené ploše.
+- **Tvarový odpor** — tlaková ztráta v úplavu za tělesem; daný odtržením proudu.
+- **Interferenční odpor** — vzájemné rušení proudových polí v místech napojení částí (u letounu křídlo–trup, u padákového kluzáku šňůry a postroj).
+
+K nim se u křídla přidává **indukovaný odpor** — nevyhnutelný důsledek vzniku vztlaku (koncové víry), roste s úhlem náběhu.
+
+**Vliv na let:** celkový odpor snižuje klouzavost. Proto pomáhá zalehnutí do postroje (menší tvarový a třecí odpor těla) a proto klouzavost klesá při letu na brzdách (větší indukovaný odpor).
 
 [K dalšímu studiu →](aerodynamika/03-odpor.html){: .btn-detail}
 

@@ -8,27 +8,31 @@
 
 Odpor je aerodynamická síla působící **proti směru pohybu** — je to daň, kterou platíme vzduchu za to, že jím letíme. U padákového kluzáku je odpor téma číslo jedna: ze všech létajících zařízení máme jeden z nejhorších poměrů vztlaku k odporu. Když pochopíš, odkud se jednotlivé složky berou, pochopíš i to, proč se kluzák chová, jak se chová — a co s tím můžeš jako pilot dělat.
 
-Celkový odpor se skládá ze čtyř hlavních složek.
-
-## Tvarový (profilový) odpor
-
-Vzniká tím, že těleso rozráží vzduch a za sebou nechává oblast rozvířeného, „ochuzeného" proudu. Čím hůř je těleso tvarované (čím dřív se od něj proud odtrhne), tím větší tvarový odpor. Kapkovitý profil křídla má tvarový odpor malý, tvoje tělo visící pod vrchlíkem naopak obrovský — proto se tvarový odpor trupu a pilota počítá do odporu škodlivého (viz níže).
-
-U samotného vrchlíku roste tvarový odpor s tloušťkou a prohnutím profilu a také při letu na brzdách — stažením odtokové hrany profil deformuješ a proud se odtrhává dříve.
+Odpor se skládá ze **tří částí**: třecí, tvarový a interferenční. U křídla se k nim navíc přidává odpor indukovaný — daň za vztlak.
 
 ## Třecí odpor
 
-Vzduch není dokonale „kluzký" — má vazkost. Na povrchu křídla ulpívá a vzniká **mezní vrstva** — tenká vrstvička vzduchu těsně u povrchu, ve které rychlost proudění narůstá od nuly (přímo na povrchu) až na rychlost okolního proudu. Právě v mezní vrstvě se odehrává veškeré tření a rozhoduje se tu i o odtržení proudu. Laminární mezní vrstva klade menší tření než turbulentní, zato se snáz odtrhne.
+Vzniká jako **smykové napětí v mezní vrstvě** na povrchu tělesa a je **úměrný omočené ploše** — tedy celkové ploše, kterou proud vzduchu „olizuje". Vzduch má vazkost: na povrchu ulpívá a v **mezní vrstvě** — tenké vrstvičce těsně u povrchu — narůstá rychlost proudění od nuly (přímo na povrchu) až na rychlost okolního proudu. Právě tady se odehrává veškeré tření a rozhoduje se tu i o odtržení proudu. Laminární mezní vrstva klade menší tření než turbulentní, zato se snáz odtrhne.
 
-Prakticky: zvlněný, špatně napnutý potah, švy, vyboulené komory — to všechno zvětšuje třecí odpor. Proto konstruktéři řeší hladkost náběžné hrany (výztuhy, „shark nose") a proto starý, „vytahaný" kluzák klouže hůř.
+Prakticky: u PK je omočená plocha obrovská — horní i spodní potah vrchlíku plus stovky metrů šňůr. Zvlněný, špatně napnutý potah, švy a vyboulené komory třecí odpor dál zvětšují. Proto konstruktéři řeší hladkost náběžné hrany (výztuhy, „shark nose") a proto starý, „vytahaný" kluzák klouže hůř.
 
-## Škodlivý odpor
+## Tvarový odpor
 
-Odpor všeho, co **nevytváří vztlak**: pilot, sedačka, šňůry, volné řídicí šňůry, přístroje. U padákového kluzáku je to mimořádně velká položka — šňůry mají v součtu stovky metrů délky a tělo pilota visí v proudu jako válec. U výkonných kluzáků proto výrobci minimalizují počet a průměr šňůr (neopláštěné šňůry, dvouřadé uspořádání) a piloti létají v aerodynamických „kokonových" sedačkách.
+Je to **tlaková ztráta v úplavu za tělesem** — a je **daný odtržením proudu**. Kde se proud od tělesa odtrhne, tam za ním zůstává úplav s nižším tlakem, který těleso „táhne zpátky". Čím hůř je těleso tvarované (čím dřív se proud odtrhne), tím širší úplav a větší tvarový odpor. Kapkovitý profil křídla má tvarový odpor malý, tělo pilota visící v proudu jako válec naopak velký.
 
-**⚠️ K verifikaci:** přesný procentní podíl škodlivého odporu (pilot + šňůry) na celkovém odporu PK — v literatuře se uvádějí různé hodnoty řádově kolem třetiny až poloviny, ověřit v aktuální učebnici.
+U samotného vrchlíku roste tvarový odpor s tloušťkou a prohnutím profilu a také při letu na brzdách — stažením odtokové hrany profil deformuješ a proud se odtrhává dříve.
 
-## Indukovaný odpor
+## Interferenční odpor
+
+Vzniká **vzájemným rušením proudových polí v místech napojení jednotlivých částí** — obtékání dvou těles blízko sebe se navzájem „kazí" a součet jejich odporů je větší, než kdyby letěla každá zvlášť. U letounu je typickým místem přechod **křídlo–trup**, u padákového kluzáku jsou to **napojení šňůr na vrchlík a na volné konce a obtékání postroje s pilotem**.
+
+Prakticky: proto výkonné kluzáky mívají méně šňůr, neopláštěné galerie a čisté napojení na vrchlík, a proto pomáhá uklizený kokpit bez vlajících poutek a přístrojů v proudu.
+
+Pojmová vsuvka: v literatuře potkáš i souhrnný termín **škodlivý odpor** — odpor všeho, co nevytváří vztlak (pilot, sedačka, šňůry). Není to čtvrtý mechanismus, jen praktické označení, kam se u PK schová velká část třecího, tvarového a interferenčního odporu „nekřídlových" částí.
+
+**⚠️ K verifikaci:** přesný procentní podíl odporu pilota a šňůr na celkovém odporu PK — v literatuře se uvádějí hodnoty řádově kolem třetiny až poloviny, ověřit v aktuální učebnici.
+
+## Indukovaný odpor — daň za vztlak
 
 Nejzáludnější složka — je to **nevyhnutelná daň za vztlak**. Pod křídlem je přetlak, nad křídlem podtlak, a na koncích křídla se tyto tlaky vyrovnávají obtékáním „zespodu nahoru". Vznikají **koncové víry**, které stáčejí proud za křídlem dolů a výslednici vztlaku naklánějí dozadu — a její složka proti pohybu je indukovaný odpor.
 
@@ -42,13 +46,13 @@ Klíčové souvislosti:
 - **Zalehni do sedačky.** Vzpřímený pilot brzdí znatelně víc než pilot zalehnutý — na dlouhém přeskoku je to rozdíl v doletu, který uvidíš na vlastní oči.
 - **Nelétej zbytečně na brzdách.** Přibrzděný let = větší úhel náběhu = větší indukovaný odpor = horší klouzavost. Brzdy používej cíleně (termika, turbulence, přistání), ne jako trvalý režim.
 - **Udržuj výstroj v pořádku.** Roztřepené opláštění šňůr, vlající kamera na šňůrce, napůl otevřený kokpit — všechno jsou zbytečné centimetry čelní plochy navíc.
-- Ze skladby odporu plyne i tvar rychlostní poláry: při malé rychlosti dominuje indukovaný odpor, při velké rychlosti odpor tvarový a škodlivý (rostou s kvadrátem rychlosti). Součet je nejmenší někde uprostřed — tam leží nejlepší klouzavost.
+- Ze skladby odporu plyne i tvar rychlostní poláry: při malé rychlosti dominuje indukovaný odpor, při velké rychlosti odpor třecí, tvarový a interferenční (rostou s kvadrátem rychlosti). Součet je nejmenší někde uprostřed — tam leží nejlepší klouzavost.
 
 ## Otázky k procvičení
 
 <details>
-<summary>Které druhy odporu rozlišujeme a která složka je u PK nápadně velká?</summary>
-<p>Tvarový (profilový), třecí, škodlivý a indukovaný odpor. U padákového kluzáku je nápadně velký škodlivý odpor — tělo pilota a stovky metrů šňůr nevytvářejí vztlak, ale brzdí.</p>
+<summary>Ze kterých tří částí se skládá odpor a co ke křídlu přidává vztlak?</summary>
+<p>Třecí (smykové napětí v mezní vrstvě, úměrný omočené ploše), tvarový (tlaková ztráta v úplavu, daná odtržením proudu) a interferenční (rušení proudových polí v místech napojení částí — u PK šňůry a postroj). Vztlak k nim přidává ještě odpor indukovaný.</p>
 </details>
 
 <details>
