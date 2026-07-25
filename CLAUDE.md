@@ -27,7 +27,10 @@ dokumenty/PL3.pdf            # zdrojový předpis (odkaz z úvodu, nové okno)
 _layouts/default.html        # šablona: klikací hlavička → úvod, revizní proužek
 assets/css/style.scss        # téma „Letová hladina" (přepis Cayman + vlastní styly)
 _config.yml                  # titulek, podtitulek, theme, lang: cs
+TODO.md                      # roadmapa projektu (komentáře instruktorů, revize…)
 ```
+
+**Stav obsahu:** kompletní — všech 71 bodů osnovy má výklad v přehledu i detailní podstránku. Texty jsou psány řečí instruktora s praxí, klíčové odborné pojmy tučně s definicí, terminologie ověřována proti českým zdrojům (LAA, ŘLP/AIP, ČHMÚ, ERC, učebnice Vykouk). Čeká se na odbornou revizi (viz TODO.md): ⚠️ K verifikaci je ~112 míst (34 v přehledech + 78 v detailech).
 
 ### Přehledová stránka předmětu
 
@@ -55,4 +58,10 @@ _config.yml                  # titulek, podtitulek, theme, lang: cs
 
 1. Uprav `.md` → commit → `git push origin main`.
 2. Ověření = počkat na přegenerování GitHub Pages a zkontrolovat na mobilu.
-3. Hromadné psaní obsahu: paralelní subagenti po předmětech, každý upravuje právě jeden soubor, git dělá orchestrátor. Vždy vyžadovat značení „⚠️ K verifikaci".
+3. Hromadné psaní obsahu: paralelní subagenti po předmětech, každý upravuje právě jen své soubory (vlastní složka detailů + vlastní přehled), git dělá orchestrátor. Vždy vyžadovat značení „⚠️ K verifikaci". Po doběhnutí strukturální kontrola skriptem (drobečky, kotvy, počty otázek, existence cílů odkazů), pak jeden commit.
+
+## Odborná revize (probíhá)
+
+- Uživatel (instruktor) diktuje správné znění — jeho formulace mají **přednost před textem vygenerovaným AI i před literaturou** (příklad: klasifikace odporu = 4 části: třecí, tvarový, interferenční, indukovaný; pojem „škodlivý odpor" se nepoužívá).
+- Korekci vždy promítnout do **obou vrstev** (přehled + detail) včetně kontrolních otázek a navazujících zmínek jinde na webu (ověřit grepem), pak odstranit příslušný řádek „⚠️ K verifikaci".
+- Sticky revizní proužek v `_layouts/default.html` se odstraní až po dokončení celé revize.
