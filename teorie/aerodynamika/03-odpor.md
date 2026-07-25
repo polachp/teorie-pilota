@@ -8,7 +8,7 @@
 
 Odpor je aerodynamická síla působící **proti směru pohybu** — je to daň, kterou platíme vzduchu za to, že jím letíme. U padákového kluzáku je odpor téma číslo jedna: ze všech létajících zařízení máme jeden z nejhorších poměrů vztlaku k odporu. Když pochopíš, odkud se jednotlivé složky berou, pochopíš i to, proč se kluzák chová, jak se chová — a co s tím můžeš jako pilot dělat.
 
-Odpor se skládá ze **tří částí**: třecí, tvarový a interferenční. U křídla se k nim navíc přidává odpor indukovaný — daň za vztlak.
+Odpor se skládá ze **čtyř částí**: třecí, tvarový, interferenční a indukovaný.
 
 ## Třecí odpor
 
@@ -27,8 +27,6 @@ U samotného vrchlíku roste tvarový odpor s tloušťkou a prohnutím profilu a
 Vzniká **vzájemným rušením proudových polí v místech napojení jednotlivých částí** — obtékání dvou těles blízko sebe se navzájem „kazí" a součet jejich odporů je větší, než kdyby letěla každá zvlášť. U letounu je typickým místem přechod **křídlo–trup**, u padákového kluzáku jsou to **napojení šňůr na vrchlík a na volné konce a obtékání postroje s pilotem**.
 
 Prakticky: proto výkonné kluzáky mívají méně šňůr, neopláštěné galerie a čisté napojení na vrchlík, a proto pomáhá uklizený kokpit bez vlajících poutek a přístrojů v proudu.
-
-Pojmová vsuvka: v literatuře potkáš i souhrnný termín **škodlivý odpor** — odpor všeho, co nevytváří vztlak (pilot, sedačka, šňůry). Není to čtvrtý mechanismus, jen praktické označení, kam se u PK schová velká část třecího, tvarového a interferenčního odporu „nekřídlových" částí.
 
 **⚠️ K verifikaci:** přesný procentní podíl odporu pilota a šňůr na celkovém odporu PK — v literatuře se uvádějí hodnoty řádově kolem třetiny až poloviny, ověřit v aktuální učebnici.
 
@@ -51,8 +49,8 @@ Klíčové souvislosti:
 ## Otázky k procvičení
 
 <details>
-<summary>Ze kterých tří částí se skládá odpor a co ke křídlu přidává vztlak?</summary>
-<p>Třecí (smykové napětí v mezní vrstvě, úměrný omočené ploše), tvarový (tlaková ztráta v úplavu, daná odtržením proudu) a interferenční (rušení proudových polí v místech napojení částí — u PK šňůry a postroj). Vztlak k nim přidává ještě odpor indukovaný.</p>
+<summary>Ze kterých čtyř částí se skládá odpor?</summary>
+<p>Třecí (smykové napětí v mezní vrstvě, úměrný omočené ploše), tvarový (tlaková ztráta v úplavu, daná odtržením proudu), interferenční (rušení proudových polí v místech napojení částí — u PK šňůry a postroj) a indukovaný (důsledek vzniku vztlaku, koncové víry).</p>
 </details>
 
 <details>
